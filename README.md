@@ -1,6 +1,4 @@
-# Arkworld Website
-
-#### Visit: https://arkworld.io
+# Arkworld Website - https://arkworld.io
 
 ![arkworld.io](_resources/img/logo.png)
 
