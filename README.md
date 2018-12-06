@@ -1,6 +1,6 @@
 # Arkworld Website - [arkworld.io](https://arkworld.io/)
 
-![arkworld.io](_resources/img/logo.png)
+![https://www.netlify.com](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)
 
 ## Credits
 * [Nico Allers](https://github.com/reconnico)
